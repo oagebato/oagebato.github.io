@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oagebato.github.io/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/app/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/assets/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/css/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/data/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/includes/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/item/sitemap.oagebato.gz
+Sitemap: https://oagebato.github.io/src/sitemap.oagebato.gz
